@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Instagram Clone
 
@@ -160,3 +161,6 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# instagram
+>>>>>>> 06e5e6b8f385fb8010b52012828ba4cbcb259128
